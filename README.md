@@ -20,4 +20,4 @@ You need a list of HTTP proxies; the better they are, the more accounts you will
 Completely programmed by me.
 
 ## Video
-https://github.com/AndySharp44s/Discord-Nitro-Generator/raw/refs/heads/main/Resources/example.mp4
+https://github.com/user-attachments/assets/199168f4-3874-408b-afe8-8bb484ec9fc5
