@@ -8,7 +8,7 @@
 </div>
 
 # Discord Nitro Generator
-With this program, you can generate as many Discord Nitro codes as you want, using the current promotion from chess.com. Save the codes in an easy-to-use text file.
+With this program, you can generate as many Discord Nitro codes as you want, using the current promotion from chess.com. It saves the codes in an easy-to-use text file.
 
 ## TODO
 My intention is that every time I see a promotion like this I will add it to this program so that codes can always be generated.
