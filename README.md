@@ -20,4 +20,4 @@ You need a list of HTTP proxies; the better they are, the more accounts you will
 Completely programmed by me.
 
 ## Video
-![](https://www.dropbox.com/scl/fi/0581aotxul6rf1c9aj177/vmware_7TtEvIVfCp.mp4?rlkey=182a7ky5q1g4hkzd80fe9jsmb&st=538k1v4q&dl=1)
+[![Video de Demostración](https://i.imgur.com/WDFdxbq.png)](https://www.dropbox.com/scl/fi/3es18mcvyi36a9gn76ghn/V-deo-sin-t-tulo-Hecho-con-Clipchamp.mp4?rlkey=8cnvxsfrgd9o9468lfx8rjwqy&st=u6wr7s9p&dl=1)
