@@ -11,7 +11,7 @@
 With this program, you can generate as many Discord Nitro codes as you want, using the current promotion from chess.com. It saves the codes in an easy-to-use text file.
 
 ## TODO
-My intention is that every time I see a promotion like this I will add it to this program so that codes can always be generated.
+My intention is to add every promotion like this to the program so that codes can always be generated.
 
 ## Dependencies
 You need a list of HTTP proxies; the better they are, the more accounts you will obtain. I recommend using those from [ProxyScrape](https://proxyscrape.com).
