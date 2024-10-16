@@ -7,6 +7,8 @@
 
 </div>
 
+## THE CHESS.COM PROMOTION HAS ENDED, WHEN ANY OTHER PROMOTION IS AVAILABLE I WILL IMPLEMENT IT TO THE PROGRAM, UNTIL THEN THIS PROGRAM DOES NOT GENERATE CODES.
+
 # Discord Nitro Generator
 With this program, you can generate as many Discord Nitro codes as you want, using the current promotion from chess.com. It saves the codes in an easy-to-use text file.
 
